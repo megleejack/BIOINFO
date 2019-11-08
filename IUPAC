@@ -1,0 +1,2 @@
+        IUPAC = {'A':'A', 'G':'G', 'C':'C', 'T':'T', 'ATGC':'N', 'AC':'M', 'AG':'R', 'AT':'W', 'CG':'S', 'CT':'Y',
+                 'GT':'K', 'AGC': 'V', 'ATC':'H', 'ATG':'D', 'TGC':'B'}
